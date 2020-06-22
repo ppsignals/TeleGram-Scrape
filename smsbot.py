@@ -23,7 +23,7 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 version : 3.1
-            youtube.com/theunknon
+            youtube.com/peterpantradingsignals
             """)
 
     def send_sms():
